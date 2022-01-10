@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @modyabhi
-- 👀 I’m interested in ...ReactJS, NextJS & Ecommerce
+- 👀 I’m interested in ...ReactJS, NextJS, Python, SQL, NoSQL, GraphQL, REST & Ecommerce
 - 🌱 I’m currently learning ... ReactJS & NextJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
